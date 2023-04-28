@@ -343,10 +343,10 @@
 #usuarioPremium::before {
   content: '';
   position: absolute;
-  width: 100px;
+  width: 120px;
   background-image: linear-gradient(180deg, rgb(219, 173, 9), rgb(133, 113, 77));
   height: 130%;
-  animation: rotBGimg 3s linear infinite;
+  animation: rotBGimg 2.7s linear infinite;
   transition: all 0.2s linear;
 }
 #usuarioPremium{
